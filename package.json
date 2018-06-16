@@ -1,0 +1,25 @@
+{
+  "name": "brazil-rates",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrfreitas/brazil-rates.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrfreitas/brazil-rates/issues"
+  },
+  "homepage": "https://github.com/chrfreitas/brazil-rates#readme",
+  "devDependencies": {
+    "electron": "^2.0.2"
+  },
+  "dependencies": {
+    "npm": "^6.1.0"
+  }
+}
